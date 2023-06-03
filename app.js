@@ -1,5 +1,8 @@
 class Casino {
-    // Write code here
+    constructor(name){
+     this.name = name;
+     this.timesPlayed = 0;   
+    }
 };
 
 // TESTS
